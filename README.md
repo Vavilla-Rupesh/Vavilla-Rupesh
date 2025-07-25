@@ -1,80 +1,91 @@
-<h1 align="center">Hey 👋, I'm Vavilla Rupesh</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0AB3FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Crafting+Modern+UIs;Exploring+Spring+%26+Spring+Boot" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F5EFB,00C9FF&height=100&section=header&text=Vavilla%20Rupesh&fontColor=ffffff&fontSize=35" />
 </p>
 
-<!-- Fake Gradient Divider -->
 <p align="center">
-  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Learning+Spring+and+Spring+Boot;Turning+Ideas+into+Beautiful+Web+Apps" alt="Typing SVG" />
 </p>
 
-## 💫 About Me
+---
 
-I’m **Vavilla Rupesh**, a passionate **Frontend Developer** who loves to:
-- 🎨 Craft modern, responsive UIs
-- ⚛️ Build elegant **React.js** apps
-- 🌱 Learn **Spring & Spring Boot** for backend APIs
-- ✨ Deliver smooth user experiences
+## 🚀 About Me
 
-<!-- Fake Gradient Divider -->
-<p align="center">
-  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
-</p>
+I'm **Vavilla Rupesh**, a passionate **Frontend Developer** who loves:
 
-## 🧰 Tech Stack
+- 🎨 Designing **beautiful, responsive UIs**
+- ⚛️ Building **dynamic single-page apps** with **React**
+- 🔧 Implementing **backend integrations** with **Spring Boot**
 
-<p align="center">
-  <code>HTML</code> &nbsp;|&nbsp; <code>CSS</code> &nbsp;|&nbsp; <code>JavaScript</code> &nbsp;|&nbsp; <code>React</code> &nbsp;|&nbsp; <code>Node.js</code> &nbsp;|&nbsp; <code>Express</code> &nbsp;|&nbsp; <code>Java</code> &nbsp;|&nbsp; <code>Spring Boot</code> &nbsp;|&nbsp; <code>PostgreSQL</code> &nbsp;|&nbsp; <code>MongoDB</code>
-</p>
+I enjoy bridging the gap between **design and functionality** to craft seamless web experiences.
 
-<!-- Fake Gradient Divider -->
-<p align="center">
-  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
-</p>
+---
 
-## 🚀 Currently Exploring
+## 💼 Tech Stack
 
-- 🌿 Mastering **Spring & Spring Boot**
-- 🎯 Advanced **React** patterns
-- 🧩 Better UI/UX design principles
+### 🌐 Frontend
+`HTML` `CSS` `JavaScript` `React.js` `Tailwind CSS`
 
-<!-- Fake Gradient Divider -->
-<p align="center">
-  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
-</p>
+### ⚙️ Backend
+`Java` `Spring Boot`
+
+### 🗄️ Databases
+`PostgreSQL`
+
+### 🧰 Tools
+`Git` `GitHub` `VS Code`
+
+---
+
+## 🧠 Currently Exploring
+
+- 🌱 **Spring & Spring Boot**  
+- 🎨 Advanced **React Patterns**  
+- 💻 Modern **Frontend Tooling**
+
+💬 **Ask me about**: React, UI/UX, Spring Boot basics  
+⚡ **Fun fact**: I design imaginary dashboards for apps that don’t exist yet!
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vavilla-Rupesh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vavilla-Rupesh&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vavilla-Rupesh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rupeshvavilla&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rupeshvavilla&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshvavilla&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<!-- Fake Gradient Divider -->
+---
+
+## 🔗 Connect with Me
+
 <p align="center">
-  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
+  <a href="mailto:rupeshvavilla200325@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/rupeshvavilla/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rupeshvavilla">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/rvavilla/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
 </p>
 
-## 📬 Connect with Me
+---
 
 <p align="center">
-  📧 **Email:** rupeshvavilla200325@gmail.com &nbsp;|&nbsp;
-  [LinkedIn](https://www.linkedin.com/in/rupeshvavilla) &nbsp;|&nbsp;
-  [GitHub](https://github.com/Vavilla-Rupesh) &nbsp;|&nbsp;
-  [Instagram](https://www.instagram.com/rvavilla/)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<!-- Fake Gradient Divider -->
-<p align="center">
-  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
-</p>
+---
 
 <p align="center">
-  <i>“Strive not to be a success, but rather to be of value.” – Albert Einstein</i>
+  <b>💡 Let's create intuitive web experiences together!</b> 🚀
 </p>
 
 <p align="center">
-  🚀 <b>Let’s build something amazing together!</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF,3F5EFB&height=100&section=footer" />
 </p>
