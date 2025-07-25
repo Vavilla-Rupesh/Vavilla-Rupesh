@@ -1,48 +1,47 @@
-<!-- Hero Banner -->
 <h1 align="center">Hey 👋, I'm Vavilla Rupesh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0AB3FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Crafting+Modern+UIs;Exploring+Spring+%26+Spring+Boot" alt="Typing SVG" />
 </p>
 
-<!-- Gradient Divider -->
+<!-- Fake Gradient Divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 </p>
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-I’m **Vavilla Rupesh**, a passionate **Frontend Developer** who loves:
-- 🎨 Building clean, responsive interfaces
-- ⚛️ Writing elegant **React.js** apps
-- 🌱 Learning **Spring & Spring Boot** for backend integration
-- ✨ Improving user experience with modern design principles
+I’m **Vavilla Rupesh**, a passionate **Frontend Developer** who loves to:
+- 🎨 Craft modern, responsive UIs
+- ⚛️ Build elegant **React.js** apps
+- 🌱 Learn **Spring & Spring Boot** for backend APIs
+- ✨ Deliver smooth user experiences
 
-<!-- Gradient Divider -->
+<!-- Fake Gradient Divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 </p>
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,spring,postgres,mongodb" />
+  <code>HTML</code> &nbsp;|&nbsp; <code>CSS</code> &nbsp;|&nbsp; <code>JavaScript</code> &nbsp;|&nbsp; <code>React</code> &nbsp;|&nbsp; <code>Node.js</code> &nbsp;|&nbsp; <code>Express</code> &nbsp;|&nbsp; <code>Java</code> &nbsp;|&nbsp; <code>Spring Boot</code> &nbsp;|&nbsp; <code>PostgreSQL</code> &nbsp;|&nbsp; <code>MongoDB</code>
 </p>
 
-<!-- Gradient Divider -->
+<!-- Fake Gradient Divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 </p>
 
 ## 🚀 Currently Exploring
 
-- 🌿 Deep dive into **Spring & Spring Boot**
-- 🎯 Modern **React.js** best practices
-- 💡 UI/UX design systems
+- 🌿 Mastering **Spring & Spring Boot**
+- 🎯 Advanced **React** patterns
+- 🧩 Better UI/UX design principles
 
-<!-- Gradient Divider -->
+<!-- Fake Gradient Divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 </p>
 
 ## 📊 GitHub Stats
@@ -53,30 +52,28 @@ I’m **Vavilla Rupesh**, a passionate **Frontend Developer** who loves:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vavilla-Rupesh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Gradient Divider -->
+<!-- Fake Gradient Divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 </p>
 
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:rupeshvavilla200325@gmail.com"><img src="https://img.shields.io/badge/Gmail-0AB3FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rupeshvavilla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Vavilla-Rupesh/"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/rvavilla/"><img src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  📧 **Email:** rupeshvavilla200325@gmail.com &nbsp;|&nbsp;
+  [LinkedIn](https://www.linkedin.com/in/rupeshvavilla) &nbsp;|&nbsp;
+  [GitHub](https://github.com/Vavilla-Rupesh) &nbsp;|&nbsp;
+  [Instagram](https://www.instagram.com/rvavilla/)
 </p>
 
-<!-- Gradient Divider -->
+<!-- Fake Gradient Divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
 </p>
 
 <p align="center">
   <i>“Strive not to be a success, but rather to be of value.” – Albert Einstein</i>
 </p>
-
----
 
 <p align="center">
   🚀 <b>Let’s build something amazing together!</b>
