@@ -1,46 +1,50 @@
-<!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm Vavilla Rupesh</h1>
+<!-- Hero Banner -->
+<h1 align="center">Hey 👋, I'm Vavilla Rupesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0AB3FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Crafting+Beautiful+UIs;Learning+Spring+%26+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0AB3FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Crafting+Modern+UIs;Exploring+Spring+%26+Spring+Boot" alt="Typing SVG" />
 </p>
 
----
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+</p>
 
-<!-- About Me -->
-## 💫 About Me
+## 👨‍💻 About Me
 
-I’m **Vavilla Rupesh**, a passionate **Frontend Developer** who loves to:
-
-- 🎨 Design modern, responsive interfaces
-- ⚙️ Build smooth **React.js** web apps
-- 🗂️ Learn and implement **Spring & Spring Boot**
-- 💡 Create clean, user-friendly web experiences
-
----
+I’m **Vavilla Rupesh**, a passionate **Frontend Developer** who loves:
+- 🎨 Building clean, responsive interfaces
+- ⚛️ Writing elegant **React.js** apps
+- 🌱 Learning **Spring & Spring Boot** for backend integration
+- ✨ Improving user experience with modern design principles
 
 <!-- Gradient Divider -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Tech-Stack-0AB3FF?style=for-the-badge&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+</p>
 
-<!-- Tech Stack -->
+## 🧰 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,spring,postgres,mongodb" />
 </p>
 
----
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+</p>
 
-<!-- Current Learning -->
 ## 🚀 Currently Exploring
 
-- 🌱 **Spring & Spring Boot** for robust backend APIs
-- 🎯 Advanced **React.js** patterns
-- 🧩 Better UI/UX best practices
+- 🌿 Deep dive into **Spring & Spring Boot**
+- 🎯 Modern **React.js** best practices
+- 💡 UI/UX design systems
 
----
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+</p>
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -49,9 +53,11 @@ I’m **Vavilla Rupesh**, a passionate **Frontend Developer** who loves to:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vavilla-Rupesh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+</p>
 
-<!-- Connect -->
 ## 📬 Connect with Me
 
 <p align="center">
@@ -61,16 +67,17 @@ I’m **Vavilla Rupesh**, a passionate **Frontend Developer** who loves to:
   <a href="https://www.instagram.com/rvavilla/"><img src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
-
-<!-- Quote -->
+<!-- Gradient Divider -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=Strive%20not%20to%20be%20a%20success%2C%20but%20rather%20to%20be%20of%20value.&author=Albert%20Einstein&theme=dark" />
+  <img src="https://svgshare.com/i/12fy.svg" alt="gradient divider" width="80%" />
+</p>
+
+<p align="center">
+  <i>“Strive not to be a success, but rather to be of value.” – Albert Einstein</i>
 </p>
 
 ---
 
-<!-- Footer Note -->
 <p align="center">
-  <b>🚀 Let's build something amazing together!</b>
+  🚀 <b>Let’s build something amazing together!</b>
 </p>
