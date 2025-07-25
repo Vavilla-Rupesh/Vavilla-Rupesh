@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assests/hero.svg" alt="Animated Hero" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Vavilla%20Rupesh&animation=twinkling" />
 </p>
 
 ## 🛠️ Tech Stack
@@ -66,5 +66,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&gradient=00C9FF,3F5EFB,ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&animation=twinkling" />
 </p>
