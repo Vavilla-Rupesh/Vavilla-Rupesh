@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Animated Hero" width="100%" />
+  <img src="./assests/hero.svg" alt="Animated Hero" width="100%" />
 </p>
 
 ## 🛠️ Tech Stack
