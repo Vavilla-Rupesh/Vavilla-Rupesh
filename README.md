@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Vavilla%20Rupesh&animation=blinking" />
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=200&text=Passion%20Driven&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Vavilla%20Rupesh" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+UI%2FUX+Craftsman;Bringing+Designs+to+Life+with+React+%26+Tailwind;Exploring+Backend+with+Spring+%26+Spring+Boot;Always+Learning+%26+Building+Better+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+UI%2FUX+Craftsman;Bringing+Designs+to+Life+with+React+%26+Tailwind;Exploring+Backend+with+Spring+%26+Spring+Boot;Always+Learning+%26+Building+Better+Experiences" alt="Typing SVG" />
 </p>
+
 
 ## 🛠️ Tech Stack
 
