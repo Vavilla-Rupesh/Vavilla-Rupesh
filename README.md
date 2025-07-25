@@ -1,49 +1,63 @@
+<!-- Custom Blue & White Animated Wave with Name & Sparkle -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F5EFB,00C9FF&height=100&section=header&text=Vavilla%20Rupesh&fontColor=ffffff&fontSize=35" />
+  <svg viewBox="0 0 1200 300" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00C9FF;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <!-- Wavy shape -->
+    <path d="M0,100 C300,200 900,0 1200,100 L1200,0 L0,0 Z" fill="url(#grad)" />
+    <!-- Your name -->
+    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle"
+          font-size="40" font-family="Fira Code, monospace" fill="#ffffff" font-weight="bold">
+      Vavilla Rupesh
+    </text>
+    <!-- Sparkles -->
+    <circle cx="200" cy="40" r="3" fill="white">
+      <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="400" cy="80" r="2" fill="white">
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="800" cy="30" r="2.5" fill="white">
+      <animate attributeName="opacity" values="1;0;1" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1000" cy="90" r="2" fill="white">
+      <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite" />
+    </circle>
+  </svg>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Vavilla%20Rupesh&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling&fontColor=ffffff&fontSize=40&gradient=white,00C9FF,3F5EFB" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Learning+Spring+and+Spring+Boot;Turning+Ideas+into+Beautiful+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Spring+%26+Spring+Boot+Explorer;Turning+Designs+into+Real+Web+Apps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/github-profile-readme-generator/main/wave.svg" alt="wave background" width="100%" />
+</p>
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,java,spring,postgres,git,github,vscode&perline=8" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧩 Currently Exploring
 
-I'm **Vavilla Rupesh**, a passionate **Frontend Developer** who loves:
+- 🌱 **Spring & Spring Boot**
+- ⚛️ **Advanced React Patterns**
+- 🎨 **Beautiful UI animations**
 
-- 🎨 Designing **beautiful, responsive UIs**
-- ⚛️ Building **dynamic single-page apps** with **React**
-- 🔧 Implementing **backend integrations** with **Spring Boot**
-
-I enjoy bridging the gap between **design and functionality** to craft seamless web experiences.
-
----
-
-## 💼 Tech Stack
-
-### 🌐 Frontend
-`HTML` `CSS` `JavaScript` `React.js` `Tailwind CSS`
-
-### ⚙️ Backend
-`Java` `Spring Boot`
-
-### 🗄️ Databases
-`PostgreSQL`
-
-### 🧰 Tools
-`Git` `GitHub` `VS Code`
-
----
-
-## 🧠 Currently Exploring
-
-- 🌱 **Spring & Spring Boot**  
-- 🎨 Advanced **React Patterns**  
-- 💻 Modern **Frontend Tooling**
-
-💬 **Ask me about**: React, UI/UX, Spring Boot basics  
-⚡ **Fun fact**: I design imaginary dashboards for apps that don’t exist yet!
+💬 **Ask me about:** React | Spring Boot | UI Polish  
+✨ **Fun fact:** I design fictional dashboards for fun!
 
 ---
 
@@ -74,6 +88,12 @@ I enjoy bridging the gap between **design and functionality** to craft seamless 
   </a>
 </p>
 
+<p align="center">
+  <a href="mailto:rupeshvavilla200325@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Collaborate!-00C9FF?style=for-the-badge&logo=Handshake&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
@@ -83,9 +103,9 @@ I enjoy bridging the gap between **design and functionality** to craft seamless 
 ---
 
 <p align="center">
-  <b>💡 Let's create intuitive web experiences together!</b> 🚀
+  <b>✨ Let's build beautiful things together!</b> 🚀
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF,3F5EFB&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&gradient=00C9FF,3F5EFB,ffffff" />
 </p>
